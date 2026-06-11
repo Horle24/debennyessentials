@@ -11,7 +11,7 @@ export default function HomePage() {
         <div className={styles.heroOverlay} />
         <div className={styles.heroBg}>
           <img
-            src="https://i.pinimg.com/736x/68/af/40/68af40da5affe63eb3d825668d7da5d3.jpg"
+            src="https://i.pinimg.com/736x/2e/bf/9e/2ebf9e66e06874bcfc37ce5c09823f60.jpg"
             alt="Debenny Essentials Hero"
             className={styles.heroBgImg}
           />
