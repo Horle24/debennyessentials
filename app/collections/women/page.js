@@ -10,16 +10,16 @@ export const metadata = {
 const womenItems = [
   { img: 'https://i.pinimg.com/736x/d0/09/3f/d0093f245ac6f8e0ed19ac75e181ba35.jpg', title: 'Crimson Evening Gown', cat: 'Gowns', wa: 'Hi Debenny! I love the Crimson Evening Gown. How much to sew and deliver?' },
   { img: 'https://i.pinimg.com/736x/b2/13/98/b2139850c56ba9ec979fce28c5e338ee.jpg', title: 'Pearl Midi Dress', cat: 'Midi', wa: 'Hi Debenny! I love the Pearl Midi Dress. How much to sew and deliver?' },
-  { img: 'https://i.pinimg.com/736x/f6/4f/d2/f64fd2ff65940bc8ac4fabc1d8d5af3e.jpg', title: 'Blush Corset Top', cat: 'Tops / Corsets', wa: 'Hi Debenny! I love the Blush Corset Top. How much to sew and deliver?' },
-  { img: 'https://i.pinimg.com/736x/8b/4c/1a/8b4c1a5f5f5f5f5f5f5f5f5f5f5f5f5.jpg', title: 'Maxi Kaftan Dress', cat: 'Maxi', wa: 'Hi Debenny! I love the Maxi Kaftan Dress. How much to sew and deliver?' },
-  { img: 'https://i.pinimg.com/736x/1b/2c/3a/1b2c3a4b5c6d7e8f9a0b1c2d3e4f5a6b.jpg', title: 'Satin Slip Mini', cat: 'Mini', wa: 'Hi Debenny! I love the Satin Slip Mini. How much to sew and deliver?' },
-  { img: 'https://i.pinimg.com/736x/2c/3d/4e/2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f.jpg', title: 'Power Jumpsuit', cat: 'Jumpsuits', wa: 'Hi Debenny! I love the Power Jumpsuit. How much to sew and deliver?' },
-  { img: 'https://i.pinimg.com/736x/3d/4e/5f/3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8g.jpg', title: 'Ruched Bodycon Dress', cat: 'Midi', wa: 'Hi Debenny! I love the Ruched Bodycon Dress. How much to sew and deliver?' },
-  { img: 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&q=80', title: 'Ruffled Chiffon Blouse', cat: 'Tops / Blouses', wa: 'Hi Debenny! I love the Ruffled Chiffon Blouse. How much to sew and deliver?' },
-  { img: 'https://images.unsplash.com/photo-1547637589-f54c34f5d7a4?w=600&q=80', title: 'Velvet Evening Gown', cat: 'Gowns', wa: 'Hi Debenny! I love the Velvet Evening Gown. How much to sew and deliver?' },
-  { img: 'https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=600&q=80', title: 'Black Sequin Dress', cat: 'Mini', wa: 'Hi Debenny! I love the Black Sequin Dress. How much to sew and deliver?' },
-  { img: 'https://images.unsplash.com/photo-1495385794356-15371f348c31?w=600&q=80', title: 'Ivory Lace Gown', cat: 'Gowns', wa: 'Hi Debenny! I love the Ivory Lace Gown. How much to sew and deliver?' },
-  { img: 'https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=600&q=80', title: 'Flowy Midi Skirt Set', cat: 'Bottoms', wa: 'Hi Debenny! I love the Flowy Midi Skirt Set. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/0e/56/6e/0e566e80fe32df2f36842d5aa09f1127.jpg', title: 'Blush Corset Top', cat: 'Tops / Corsets', wa: 'Hi Debenny! I love the Blush Corset Top. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/86/fc/07/86fc07f8d3fd10ecc2f7cf7e2c006466.jpg', title: 'Maxi Kaftan Dress', cat: 'Maxi', wa: 'Hi Debenny! I love the Maxi Kaftan Dress. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/05/17/43/051743be832f2b0a485f5ee4a2ec8f24.jpg', title: 'Satin Slip Mini', cat: 'Mini', wa: 'Hi Debenny! I love the Satin Slip Mini. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/72/54/10/7254102a6a7b10098dc1b1354ffd966a.jpg', title: 'Power Jumpsuit', cat: 'Jumpsuits', wa: 'Hi Debenny! I love the Power Jumpsuit. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/aa/2c/34/aa2c3417d1901d8c42b08946e61b36d7.jpg', title: 'Ruched Bodycon Dress', cat: 'Midi', wa: 'Hi Debenny! I love the Ruched Bodycon Dress. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/e8/bb/ea/e8bbeaa6b7ffa8cfcb4606631cc23e05.jpg', title: 'Ruffled Chiffon Blouse', cat: 'Tops / Blouses', wa: 'Hi Debenny! I love the Ruffled Chiffon Blouse. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/0d/f2/af/0df2afd01bdb5fdc5b4e342ad15ff9b3.jpg', title: 'Velvet Evening Gown', cat: 'Gowns', wa: 'Hi Debenny! I love the Velvet Evening Gown. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/61/e5/07/61e50759c7c068e04c2cebdcd92dc832.jpg', title: 'Black Sequin Dress', cat: 'Mini', wa: 'Hi Debenny! I love the Black Sequin Dress. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/736x/5a/c0/1a/5ac01a6e6a44c200de995a933702527d.jpg', title: 'Ivory Lace Gown', cat: 'Gowns', wa: 'Hi Debenny! I love the Ivory Lace Gown. How much to sew and deliver?' },
+  { img: 'https://i.pinimg.com/1200x/93/86/fd/9386fdb04db5e6986de0fae5a7142f43.jpg', title: 'Flowy Midi Skirt Set', cat: 'Bottoms', wa: 'Hi Debenny! I love the Flowy Midi Skirt Set. How much to sew and deliver?' },
 ];
 
 export default function WomenCollectionPage() {

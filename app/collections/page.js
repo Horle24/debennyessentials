@@ -40,7 +40,7 @@ export default function CollectionsPage() {
             <Link href="/collections/kids" className={styles.card}>
               <div className={styles.imgWrap}>
                 <img
-                  src="https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=900&q=85"
+                  src="https://i.pinimg.com/736x/31/6a/31/316a31f558708ad3ca74c0fd82074791.jpg"
                   alt="Kids' Collection"
                   className={styles.img}
                 />
