@@ -25,7 +25,7 @@ export const styles = [
     title: 'Crimson Evening Gown',
     category: 'Women — Gowns',
     description: 'Floor-length draped silhouette with off-shoulder neckline. Pure elegance redefined.',
-    image: 'https://images.unsplash.com/photo-1566479179817-c0ae66cc04b3?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/d0/09/3f/d0093f245ac6f8e0ed19ac75e181ba35.jpg',
     tags: ['Gown', 'Evening', 'Women'],
   },
   {
@@ -33,7 +33,7 @@ export const styles = [
     title: 'Pearl Midi Dress',
     category: 'Women — Midi',
     description: 'Structured midi with puff sleeves and pearl-button detailing. Effortless sophistication.',
-    image: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/b2/13/98/b2139850c56ba9ec979fce28c5e338ee.jpg',
     tags: ['Midi', 'Casual Luxury', 'Women'],
   },
   {
@@ -41,7 +41,7 @@ export const styles = [
     title: 'Blush Corset Top',
     category: 'Women — Tops',
     description: 'Boned corset with lace-up back. A statement piece for any occasion.',
-    image: 'https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/0e/56/6e/0e566e80fe32df2f36842d5aa09f1127.jpg',
     tags: ['Corset', 'Top', 'Women'],
   },
   {
@@ -57,7 +57,7 @@ export const styles = [
     title: 'Maxi Kaftan Dress',
     category: 'Women — Maxi',
     description: 'Wide-sleeve maxi kaftan in rich Ankara-inspired print. Regal and free-flowing.',
-    image: 'https://images.unsplash.com/photo-1521577352947-9bb58764b69a?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/86/fc/07/86fc07f8d3fd10ecc2f7cf7e2c006466.jpg',
     tags: ['Maxi', 'Kaftan', 'Women'],
   },
   {
@@ -65,7 +65,7 @@ export const styles = [
     title: 'Satin Slip Mini',
     category: 'Women — Mini',
     description: 'Bias-cut satin mini with adjustable straps. Minimal, sensual, iconic.',
-    image: 'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/05/17/43/051743be832f2b0a485f5ee4a2ec8f24.jpg',
     tags: ['Mini', 'Satin', 'Women'],
   },
   {
@@ -73,7 +73,7 @@ export const styles = [
     title: 'Flower Girl Midi',
     category: 'Kids — Baby Girl',
     description: 'Smocked bodice with floral midi skirt. Perfect for weddings and celebrations.',
-    image: 'https://images.unsplash.com/photo-1476234251651-f353703a034d?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/9a/df/5c/9adf5c8e8f8f8f8f8f8f8f8f8f8f8f8f.jpg',
     tags: ['Kids', 'Baby Girl', 'Wedding'],
   },
   {
@@ -81,7 +81,7 @@ export const styles = [
     title: 'Power Jumpsuit',
     category: 'Women — Jumpsuits',
     description: 'Wide-leg structured jumpsuit with deep V-neckline. Boss-lady energy.',
-    image: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/72/54/10/7254102a6a7b10098dc1b1354ffd966a.jpg',
     tags: ['Jumpsuit', 'Women', 'Power'],
   },
   {
@@ -89,7 +89,7 @@ export const styles = [
     title: 'Ruched Bodycon Dress',
     category: 'Women — Midi',
     description: 'Figure-hugging ruched midi with square neck. For the woman who owns every room.',
-    image: 'https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/aa/2c/34/aa2c3417d1901d8c42b08946e61b36d7.jpg',
     tags: ['Bodycon', 'Midi', 'Women'],
   },
   {
@@ -97,7 +97,7 @@ export const styles = [
     title: 'Ruffled Blouse',
     category: 'Women — Tops',
     description: 'Cascading ruffle blouse in ivory chiffon. Romantic and refined.',
-    image: 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/e8/bb/ea/e8bbeaa6b7ffa8cfcb4606631cc23e05.jpg',
     tags: ['Blouse', 'Top', 'Women'],
   },
   {
@@ -113,7 +113,7 @@ export const styles = [
     title: 'Velvet Evening Gown',
     category: 'Women — Gowns',
     description: 'Deep burgundy velvet gown with thigh-high slit. Commanding presence guaranteed.',
-    image: 'https://images.unsplash.com/photo-1547637589-f54c34f5d7a4?w=600&q=80',
+    image: 'https://i.pinimg.com/736x/0d/f2/af/0df2afd01bdb5fdc5b4e342ad15ff9b3.jpg',
     tags: ['Gown', 'Velvet', 'Evening'],
   },
 ];
