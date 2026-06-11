@@ -21,7 +21,7 @@ export default function CollectionsPage() {
             <Link href="/collections/women" className={styles.card}>
               <div className={styles.imgWrap}>
                 <img
-                  src="https://images.unsplash.com/photo-1566479179817-c0ae66cc04b3?w=900&q=85"
+                  src="https://i.pinimg.com/736x/f6/4f/d2/f64fd2ff65940bc8ac4fabc1d8d5af3e.jpg"
                   alt="Women's Collection"
                   className={styles.img}
                 />
