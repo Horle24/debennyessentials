@@ -61,7 +61,7 @@ export default function HomePage() {
           <div className={styles.aboutGrid}>
             <div className={styles.aboutImgWrap}>
               <img
-                src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=700&q=85"
+                src="https://i.pinimg.com/736x/9d/d2/32/9dd23249f063b6f93b669911fc2486e9.jpg"
                 alt="Debenny Essentials Craftsmanship"
                 className={styles.aboutImg}
               />
@@ -102,7 +102,7 @@ export default function HomePage() {
           <div className={styles.deptGrid}>
             <Link href="/collections/women" className={styles.deptCard}>
               <img
-                src="https://images.unsplash.com/photo-1566479179817-c0ae66cc04b3?w=800&q=85"
+                src="https://i.pinimg.com/736x/f6/4f/d2/f64fd2ff65940bc8ac4fabc1d8d5af3e.jpg"
                 alt="Women's Fashion"
                 className={styles.deptImg}
               />
@@ -116,7 +116,7 @@ export default function HomePage() {
             </Link>
             <Link href="/collections/kids" className={styles.deptCard}>
               <img
-                src="https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=85"
+                src="https://i.pinimg.com/736x/31/6a/31/316a31f558708ad3ca74c0fd82074791.jpg"
                 alt="Kids' Fashion"
                 className={styles.deptImg}
               />
